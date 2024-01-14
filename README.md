@@ -17,7 +17,7 @@
 <td colspan="5" height="50px"><b><font size=2>세계관 주민 소개 </font></b></td>
 </tr>
 
-<tr>
+<tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/106756920?v=4" style="width:90%; height:90%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/13723849?v=4" style="width:95%; height:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/104622515?v=4" style="width:95%; height:95%;"></td>
