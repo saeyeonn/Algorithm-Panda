@@ -51,7 +51,7 @@
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%; height:95%;"></td>
 <td></td>
 <td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; height:95%;"></td>
-<td></td>
+<td><img src="https://avatars.githubusercontent.com/u/156886769?v=4" style="width:95%; height:95%;"></td>
 <td></td>
 </tr>
 
@@ -60,7 +60,7 @@
 <td><a href="https://github.com/baikseungwoo">승우</td>
 <td>영진</td>
 <td><a href="https://github.com/orieasy1">지원</td>
-<td>가연</td>
+<td><a href="https://github.com/Gayeon07">가연</td>
 <td>입주 예정</td>
 </tr>
 
