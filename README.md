@@ -1,8 +1,6 @@
-# Algorithm-Panda
-
-<br>
 
 💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
+<br>
 - 세계관 Open Comming soon (2월~ )
 - 절대 팀플과 시험에 지쳐 다크서클이 생긴 판다는 아니랍니다.
 - 우리의 목표는 그 어떤 시련이 와도 물리치는 것!
@@ -16,7 +14,7 @@
 <table align="center">
 
 <tr align="center">
-<td colspan="5" height="50px"><b><font size=2>세계관 주민 소개 </font></b></td>
+<td colspan="5" height="50px"><b><font size=2>1동 주민 소개</font></b></td>
 </tr>
 
 <tr>
@@ -42,6 +40,36 @@
 <td>Java</td>
 <td>C++</td>
 <td>Python</td>
+</tr>
+
+<tr align="center">
+<td colspan="5" height="50px"><b><font size=2>2동 주민 소개</font></b></td>
+</tr>
+
+
+<tr>
+<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%; height:95%;"></td>
+<td></td>
+<td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; height:95%;"></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr align="center">
+<td><a href="https://github.com/baikseungwoo">승우</td>
+<td>영진</td>
+<td><a href="https://github.com/orieasy1">지원</td>
+<td>가연</td>
+<td>입주 예정</td>
+</tr>
+
+<tr align="center">
+<td>Java</td>
+<td>Java</td>
+<td>Java</td>
+<td>Java</td>
+<td>-</td>
 </tr>
 
 </table>
