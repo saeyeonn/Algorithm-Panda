@@ -3,7 +3,7 @@
 <br>
 - 세계관 Open Comming soon (2월~ )
 - 절대 팀플과 시험에 지쳐 다크서클이 생긴 판다는 아니랍니다.
-- 우리의 목표는 그 어떤 시련이 와도 물리치는 것!
+- 우리의 목표는 그 어떤 시련이 와도 물리치는 것! 그리고.. 세계관 무한 확장..?
 - ~~푸바오 가지마...~~
  
 
@@ -17,7 +17,7 @@
 <td colspan="5" height="50px"><b><font size=2>1동 주민 소개</font></b></td>
 </tr>
 
-<tr>
+<tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/106756920?v=4" style="width:90%; height:90%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/13723849?v=4" style="width:95%; height:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/104622515?v=4" style="width:95%; height:95%;"></td>
