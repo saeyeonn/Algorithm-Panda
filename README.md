@@ -5,6 +5,8 @@
 - 절대 팀플과 시험에 지쳐 다크서클이 생긴 판다는 아니랍니다.
 - 우리의 목표는 그 어떤 시련이 와도 물리치는 것! 그리고.. 세계관 무한 확장..?
 - ~~푸바오 가지마...~~
+
+- 그렇게 작고 소중하게 시작하려던 스터디는 ITM 전공 동아리가 되었다....
  
 
 <br>
@@ -52,7 +54,7 @@
 <td></td>
 <td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; height:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156886769?v=4" style="width:95%; height:95%;"></td>
-<td></td>
+<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:85%; height:85%;"></td>
 </tr>
 
 
@@ -61,7 +63,7 @@
 <td>영진</td>
 <td><a href="https://github.com/orieasy1">지원</td>
 <td><a href="https://github.com/Gayeon07">가연</td>
-<td>입주 예정</td>
+<td><a href="https://github.com/s21versurfer">은결</td>
 </tr>
 
 <tr align="center">
@@ -69,7 +71,7 @@
 <td>Java</td>
 <td>Java</td>
 <td>Java</td>
-<td>-</td>
+<td>Java</td>
 </tr>
 
 </table>
