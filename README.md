@@ -1,15 +1,14 @@
 
 💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
-<br>
-- 세계관 Open Comming soon (2월~ )
-- 절대 팀플과 시험에 지쳐 다크서클이 생긴 판다는 아니랍니다.
-- 우리의 목표는 그 어떤 시련이 와도 물리치는 것! 그리고.. 세계관 무한 확장..?
-- ~~푸바오 가지마...~~
 
-- 그렇게 작고 소중하게 시작하려던 스터디는 ITM 전공 동아리가 되었다....
- 
+<br></br>
 
-<br>
+
+### ✏️ Notion ✏️
+
+- [운영자 샌이 공부하며 정리한 알고리즘 이론](https://married-indigo-f9b.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31)
+
+<br></br>
 
 ### 🐼 Resident 🐼
 
@@ -29,7 +28,7 @@
 
 
 <tr align="center">
-<td><a href="https://github.com/saeyeonn">새연</td>
+<td><a href="https://github.com/saeyeonn">👑 새연 👑</td>
 <td><a href="https://github.com/Daehun">대훈</td>
 <td><a href="https://github.com/yeomjungwoo">정우</td>
 <td><a href="https://github.com/sardine-21">동환</td>
@@ -102,25 +101,15 @@ BOJ-문제번호 문제이름
 - 예시
 ```📦 algorithm-study
  ├── README.md
- ├── 📁 Programmers
- │    ├── 📁 Level2
+ └── 📁 Baekjoon
+ │    ├── 📁 Greedy
  │    │    ├── 📁 Saeyeon
  │    │    ├── 📁 Daehun
  │    │    ├── 📁 Donghwan
  │    │    ├── 📁 Suwong
- │    │    ├── 📁 Jeongwoo
- │    └── 📁 Level3
- └── 📁 Baekjoon
-      ├── 📁 Greedy
-      ├── 📁 Backtracking
-      └── 📁 Binary Search     
+ │    │    └── 📁 Jeongwoo
+ └──  └── 📁 Search     
 ```
-
-<br></br>
-
-### ⌛ Curriculum ⌛
-
-- 임새연 머리 굴리는 중 ...
 
 <br></br>
 
