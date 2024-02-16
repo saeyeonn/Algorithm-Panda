@@ -1,16 +1,16 @@
 
-💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
+### 💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
 
 <br></br>
 
 
-### ✏️ Notion ✏️
+#### ✏️ Notion ✏️
 
 - [운영자 샌이 공부하며 정리한 알고리즘 이론](https://married-indigo-f9b.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31)
 
 <br></br>
 
-### 🐼 Resident 🐼
+#### 🐼 Resident 🐼
 
 <table align="center">
 
@@ -77,7 +77,7 @@
 
 <br></br>
 
-### 📃 Rules 📃
+#### 📃 Rules 📃
 
 - 스터디는 주 1회 진행됩니다. 
 - 스터디 시간 전까지 문제 풀이 코드를 깃허브에 Pull Request로 보냅니다.
@@ -91,11 +91,12 @@
 <br></br>
 
 ### 🌐 Git 🌐
-- Commit & Pull Request Message
+- Commit & Pull Request Message (코드 파일명도 동일하게)
 ``` 
 PRG 문제이름
 BOJ-문제번호 문제이름
 ```
+
 
 - 레포지토리 클론 후 각 폴더에 자신의 이름으로 폴더를 생성하여 문제 풀이 코드를 커밋합니다.
 - 예시
@@ -113,7 +114,7 @@ BOJ-문제번호 문제이름
 
 <br></br>
 
-### 🧩 Reference 🧩
+#### 🧩 Reference 🧩
 
 - Do it! 알고리즘 코딩테스트
 - Barking Dog 실전 알고리즘
