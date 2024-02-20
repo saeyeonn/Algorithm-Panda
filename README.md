@@ -1,14 +1,16 @@
 
-### 💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
+#### 💫 서울과기대 ITM 전공 판다들의 알고리즘 세계관에 온 것을 환영합니다 💫
 
-<br></br>
+<br>
 
+#### 💡 Progress 💡
+- [Team 1](https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/Team1/T1%20Curriculum.md)
+- [Team 2](https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/Team2/T2%20Curriculum.md)
 
-#### ✏️ Notion ✏️
+- [Notion - 운영자 샌이 공부하며 정리한 알고리즘 이론](https://married-indigo-f9b.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31)
 
-- [운영자 샌이 공부하며 정리한 알고리즘 이론](https://married-indigo-f9b.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31)
+<br>
 
-<br></br>
 
 #### 🐼 Resident 🐼
 
@@ -91,6 +93,11 @@
 <br></br>
 
 ### 🌐 Git 🌐
+- 브랜치명 : 팀 + 각자 이름
+```
+T1-Saeyeon
+```
+
 - Commit & Pull Request Message (코드 파일명도 동일하게)
 ``` 
 PRG 문제이름
@@ -102,14 +109,17 @@ BOJ-문제번호 문제이름
 - 예시
 ```📦 algorithm-study
  ├── README.md
- └── 📁 Baekjoon
- │    ├── 📁 Greedy
- │    │    ├── 📁 Saeyeon
- │    │    ├── 📁 Daehun
- │    │    ├── 📁 Donghwan
- │    │    ├── 📁 Suwong
- │    │    └── 📁 Jeongwoo
- └──  └── 📁 Search     
+ ├── Team1
+ |    ├── 📁 Baekjoon
+ │    │    ├── 📁 Greedy
+ │    │    │    ├── 📁 Saeyeon
+ │    │    │    ├── 📁 Daehun
+ │    │    │    ├── 📁 Donghwan
+ │    │    │    ├── 📁 Suwong
+ │    │    │    └── 📁 Jeongwoo
+ |    └──  └───📁 Search     
+ └── Team2
+
 ```
 
 <br></br>
