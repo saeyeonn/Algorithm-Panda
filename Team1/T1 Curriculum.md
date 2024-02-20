@@ -76,7 +76,7 @@
 
 
 <tr>
-<td rowspan="5">Week 3</td>
+<td rowspan="5">Week 4</td>
 <td rowspan="2">Section 3</td>
 <td>DFS</td>
 </tr>
@@ -94,7 +94,7 @@
 </tr>
 
 <tr>
-<td rowspan="5">Week 4</td>
+<td rowspan="5">Week 5</td>
 <td rowspan="2">Section 3</td>
 <td>BFS</td>
 </tr>
@@ -112,7 +112,7 @@
 </tr>
 
 <tr>
-<td rowspan="4">Week 5</td>
+<td rowspan="4">Week 6</td>
 <td rowspan="2">Section 3</td>
 <td>이진탐색</td>
 </tr>
@@ -127,7 +127,7 @@
 </tr>
 
 <tr>
-<td rowspan="5">Week 6</td>
+<td rowspan="5">Week 7</td>
 <td rowspan="3">Section 4</td>
 <td>그리디 알고리즘</td>
 </tr>
@@ -143,12 +143,12 @@
 </tr>
 
 <tr>
-<td rowspan="6">Week 7</td>
+<td rowspan="6">Week 8</td>
 <td rowspan="4">Section 5</td>
 <td>소수 구하기</td>
 </tr>
 <tr>
-<td><a href ="https://www.acmicpc.net/problem/1929">[실전문제] 소수 구하기 (BOJ #1929)</a></td>
+<td><a href ="https://www.acmicpc.net/problem/1929">[실전문제] 소수 구하기 1(BOJ #1929)</a></td>
 </tr>
 <tr>
 <td>오일러피</td>
