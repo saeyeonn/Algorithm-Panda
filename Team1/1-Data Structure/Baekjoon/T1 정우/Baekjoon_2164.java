@@ -18,8 +18,8 @@ public class Baekjoon_2164 {
             while(q.size() > 1) {
                 q.poll();	// 맨 앞 숫자 버리기
                 q.offer(q.poll());	// 버렸던 맨 원소 맨 뒤로 삽입하기
-            }
-
+            } //큐에 숫자 하나만 남을 때까지 반복...~
+            in.close(); 
         System.out.println(q.poll());	// 마지막 남은 숫자 출력
     }
 }
