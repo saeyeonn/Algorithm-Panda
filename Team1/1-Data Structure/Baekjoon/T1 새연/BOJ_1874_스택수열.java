@@ -11,6 +11,7 @@ public class BOJ_1874_스택수열 {
         Stack<Integer> stack = new Stack<>();
         Integer T = Integer.parseInt(br.readLine());
         int temp = 1;
+
         boolean err = false;
 
         for(int i = 0 ; i < T ; i++) {
