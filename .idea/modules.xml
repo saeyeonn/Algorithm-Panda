@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" filepath="$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1-대훈/T1-대훈.iml" filepath="$PROJECT_DIR$/T1-대훈/T1-대훈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1-동환/T1-동환.iml" filepath="$PROJECT_DIR$/T1-동환/T1-동환.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1-새연/T1-새연.iml" filepath="$PROJECT_DIR$/T1-새연/T1-새연.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1-수용/T1-수용.iml" filepath="$PROJECT_DIR$/T1-수용/T1-수용.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1-정우/T1-정우.iml" filepath="$PROJECT_DIR$/T1-정우/T1-정우.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-가연/T2-가연.iml" filepath="$PROJECT_DIR$/T2-가연/T2-가연.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-승우/T2-승우.iml" filepath="$PROJECT_DIR$/T2-승우/T2-승우.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-영진/T2-영진.iml" filepath="$PROJECT_DIR$/T2-영진/T2-영진.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-은결/T2-은결1.iml" filepath="$PROJECT_DIR$/T2-은결/T2-은결1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-지원/T2-지원.iml" filepath="$PROJECT_DIR$/T2-지원/T2-지원.iml" />
+    </modules>
+  </component>
+</project>
