@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1a3e9f9-0ab3-4ece-99cd-2bf0546c407f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 대훈/P11286_절댓값_힙_구현하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 대훈/P11286_절댓값_힙_구현하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 대훈/BOJ2252_줄_세우기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 대훈/BOJ2252_줄_세우기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 대훈/P1707_이분_그래프.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 대훈/P1707_이분_그래프.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Panda-World/P11286_절댓값_힙_구현하기.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Panda-World/P11286_절댓값_힙_구현하기.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Panda-World/P1707_이분_그래프.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Panda-World/P1707_이분_그래프.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cjHsasxVdUaiUunMP5qqUMDyuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BOJ1427_소트인사이드.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1717_집합표현하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2252_줄_세우기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2759_수_정렬하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P1874_스택으로_수열만들기.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;T1-Daehun&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Daehun/IdeaProjects/Computer Language (ITM-SeoulTech)/course.json&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a3e9f9-0ab3-4ece-99cd-2bf0546c407f" name="Changes" comment="" />
+      <created>1708618274594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708618274594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
