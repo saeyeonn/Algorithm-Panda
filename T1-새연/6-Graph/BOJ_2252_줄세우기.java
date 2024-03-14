@@ -32,18 +32,18 @@ public class BOJ_2252_줄세우기 {
         }
 
         for (int i = 1; i < edge.size(); i++) {
-            if (frontCount[i] == 0) {
+            if (frontCount[i] == 0) { // 앞 학생이 없는 경우
                 queue.add(i);
             }
         }
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty()) { // 위상 정렬 탐색
             int cur = queue.poll();
             sb.append(cur).append(" ");
 
-            for (int next: edge.get(cur)) {
-                frontCount[next]--;
-                if (frontCount[next] == 0) {
+            for (int next: edge.get(cur)) { // 비교 학생 탐색
+                frontCount[next]--; // 앞 학생 포함
+                if (frontCount[next] == 0) { // 앞 학생 모두 줄 선 경우
                     queue.add(next);
                 }
             }
