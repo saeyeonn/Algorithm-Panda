@@ -1,0 +1,17 @@
+Index: Team2/1-Data Structure/Baekjoon/T2 영진/P12891
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.util.Scanner;\r\nimport java.util.StringTokenizer;\r\n\r\npublic class P12891 {\r\n  static int myArr[]; //전역변수 선언\r\n  static int CheckArr[];\r\n  static int checkSecret;\r\n\r\n  public static void main(String[] args) throws IOException {\r\n\r\n  BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));\r\n  StringTokenizer st = new StringTokenizer(bf.readLine());\r\n  int S = Integer.parseInt(st.nextToken());\r\n  int P = Integer.parseInt(st.nextToken());\r\n  int Result = 0; // 출력값 변수\r\n  CheckArr = new int[4];\r\n  myArr = new int[4];\r\n  checkSecret = 0; // 이 값이 4가 되면 조건에 충족\r\n  char[] A = new char[S];\r\n\r\n  A = bf.readLine().toCharArray();\r\n  st = new StringTokenizer(bf.readLine());\r\n  for(int i = 0; i < 4; i++){\r\n    CheckArr[i] = Integer.parseInt(st.nextToken());\r\n    if(CheckArr[i] == 0){\r\n      checkSecret++;\r\n    }\r\n  }\r\n\r\n  for(int i = 0; i<P; i++){\r\n    Add(A[i]); // 입력받은 배열의 부분배열을 현재 상태 배열(myArr)에 넣어주기 위한 함수 생성\r\n  }\r\n\r\n  if(checkSecret == 4) Result++;\r\n\r\n  //슬라이딩 윈도우\r\n for(int i = P; i<S; i++){\r\n   int j = i-P;\r\n   Add(A[i]);\r\n   Remove(A[j]);\r\n   if(checkSecret == 4) Result++;\r\n }\r\n\r\nSystem.out.println(Result);\r\n bf.close();\r\n\r\n\r\n  }\r\n\r\n  private static void Remove(char c) {\r\n    switch(c){\r\n      case 'A':\r\n        if(myArr[0] == CheckArr[0]) checkSecret--;\r\n        myArr[0]--;\r\n        break;\r\n\r\n      case 'C':\r\n        if(myArr[1] == CheckArr[1]) checkSecret--;\r\n        myArr[1]--;\r\n        break;\r\n      case 'G':\r\n        if(myArr[2] == CheckArr[2]) checkSecret--;\r\n        myArr[2]--;\r\n        break;\r\n      case'T':\r\n      if(myArr[3] == CheckArr[3]) checkSecret--;\r\n      myArr[3]--;\r\n      break;\r\n    }\r\n  }\r\n\r\n  private static void Add(char c) {\r\n    switch(c){\r\n      case 'A':\r\n        myArr[0]++; // 왜?\r\n        if(myArr[0] == CheckArr[0]) checkSecret++;\r\n        break;\r\n\r\n      case 'C':\r\n        myArr[1]++;\r\n        if(myArr[1] == CheckArr[1]) checkSecret++;\r\n        break;\r\n      case 'G':\r\n        myArr[2]++;\r\n        if(myArr[2] == CheckArr[2]) checkSecret++;\r\n        break;\r\n      case 'T':\r\n        myArr[3]++;\r\n        if(myArr[3] == CheckArr[3]) checkSecret++;\r\n        break;\r\n    }\r\n  }\r\n}
+===================================================================
+diff --git a/Team2/1-Data Structure/Baekjoon/T2 영진/P12891 b/Team2/1-Data Structure/Baekjoon/T2 영진/P12891
+--- a/Team2/1-Data Structure/Baekjoon/T2 영진/P12891	
++++ b/Team2/1-Data Structure/Baekjoon/T2 영진/P12891	
+@@ -75,7 +75,7 @@
+   private static void Add(char c) {
+     switch(c){
+       case 'A':
+-        myArr[0]++; // 왜?
++        myArr[0]++;
+         if(myArr[0] == CheckArr[0]) checkSecret++;
+         break;
+ 
