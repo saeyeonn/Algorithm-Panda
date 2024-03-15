@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" filepath="$PROJECT_DIR$/.idea/Algorithm-Panda-World.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/T2 영진.iml" filepath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/T2 영진.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2-영진/T2-영진.iml" filepath="$PROJECT_DIR$/T2-영진/T2-영진.iml" />
     </modules>
   </component>
 </project>

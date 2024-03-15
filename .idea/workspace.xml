@@ -4,7 +4,197 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edb6c84-a76f-4815-8965-86f048d9922f" name="Changes" comment="PRG 절댓값 힙 구현&#10;BOJ 11286 절댓값 힙 구현" />
+    <list default="true" id="5edb6c84-a76f-4815-8965-86f048d9922f" name="Changes" comment="PRG 절댓값 힙 구현&#10;BOJ 11286 절댓값 힙 구현">
+      <change afterPath="$PROJECT_DIR$/T1-대훈/1-Data Structure/P11286_절댓값_힙_구현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/1-Data Structure/P1874_스택으로_수열만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/1-Data Structure/P2164_카드게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/2-Sorting/2-Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/2-Sorting/BOJ1427_소트인사이드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/2-Sorting/BOJ2759_수_정렬하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/3-Search/3-Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/4-Greedy/4-Greedy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/5-Number Theory/5-Number Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/6-Graph/6-Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/7-Tree/7-Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/8-Combination/8-Combination.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/9-Dynamic Programming/9-Dynamic Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-대훈/T1-대훈.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-동환/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-동환/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-동환/T1-동환.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_1127_이분그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_11286_절댓값힙.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_11720_숫자의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_1546_평균구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_1874_스택수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/1-Data Structure/BOJ_2164_카드2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-새연/T1-새연.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-수용/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-수용/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-수용/T1-수용.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/1-Data Structure/Baekjoon_11286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/1-Data Structure/Baekjoon_1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/1-Data Structure/Baekjoon_2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/2-Sorting/Baekjoon_1427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/2-Sorting/Baekjoon_2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T1-정우/T1-정우.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-가연/1-Data Structure/W1Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-가연/1-Data Structure/W1Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-가연/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-가연/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-가연/T2-가연.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P11659(구간합)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P11720(숫자의합)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P12891DNA비밀번호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P1546(평균)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P1940주몽의명령.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/1-Data Structure/P2018연속된자연수의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-승우/T2-승우.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-영진/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-영진/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-영진/T2-영진.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-은결/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-은결/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-은결/T2-은결.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week1_BOJ11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week1_BOJ11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week1_BOJ1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week2_BOJ12891.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week2_BOJ1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/1-Data Structure/Week2_BOJ2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/6-Graph/BOJ1717_집합표현하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/6-Graph/P1707_이분_그래프.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-지원/T2-지원.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/1-Data Structure/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/1-Data Structure/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/2-Sorting/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-동환/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/3-Search/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-새연/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/4-Greedy/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/1-Data Structure/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/5-Number Theory/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-수용/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/6-Graph/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T1-정우/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/7-Tree/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-가연/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/8-Combination/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/Baekjoon/T1 대훈/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/Baekjoon/T1 동환/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/Baekjoon/T1 새연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/Baekjoon/T1 수용/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/9-Dynamic Programmiing/Baekjoon/T1 정우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team1/T1 Curriculum.md" beforeDir="false" afterPath="$PROJECT_DIR$/T1 Curriculum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-승우/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 가연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 승우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P11286" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P11286" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P11659" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P11659" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P11720" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P11720" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P12891" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P12891" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P1546" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P1546" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P1847" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P1940" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P1940" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P2018" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/1-Data Structure/P2018" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/P2164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 영진/T2 영진.iml" beforeDir="false" afterPath="$PROJECT_DIR$/T1-대훈/1-Data Structure/1-Data Structure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 은결/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/1-Data Structure/Baekjoon/T2 지원/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/Baekjoon/T2 가연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/Baekjoon/T2 승우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-영진/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/Baekjoon/T2 영진/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/1-Data Structure/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/Baekjoon/T2 은결/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/2-Sorting/Baekjoon/T2 지원/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/Baekjoon/T2 가연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/Baekjoon/T2 승우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/Baekjoon/T2 영진/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/Baekjoon/T2 은결/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/3-Search/Baekjoon/T2 지원/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/2-Sorting/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/Baekjoon/T2 가연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/3-Search/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/Baekjoon/T2 승우/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/4-Greedy/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/Baekjoon/T2 영진/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/5-Number Theory/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/Baekjoon/T2 은결/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/6-Graph/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/4-Greedy/Baekjoon/T2 지원/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/7-Tree/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/8-Combination/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/Baekjoon/T2 가연/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/T2-지원/9-Dynamic Programming/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/Baekjoon/T2 승우/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/Baekjoon/T2 영진/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/Baekjoon/T2 은결/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/5-Number Theory/Baekjoon/T2 지원/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/Baekjoon/T2 가연/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/Baekjoon/T2 승우/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/Baekjoon/T2 영진/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/Baekjoon/T2 은결/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/6-Graph/Baekjoon/T2 지원/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/Baekjoon/T2 가연/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/Baekjoon/T2 승우/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/Baekjoon/T2 영진/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/Baekjoon/T2 은결/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/7-Tree/Baekjoon/T2 지원/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/Baekjoon/T2 가연/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/Baekjoon/T2 승우/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/Baekjoon/T2 영진/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/Baekjoon/T2 은결/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/8-Combination/Baekjoon/T2 지원/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/Baekjoon/T2 가연/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/Baekjoon/T2 승우/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/Baekjoon/T2 영진/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/Baekjoon/T2 은결/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/9-Dynamic Programmiing/Baekjoon/T2 지원/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team2/T2 Curriculum.md" beforeDir="false" afterPath="$PROJECT_DIR$/T2 Curriculum.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,21 +230,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;T2-Youngjin&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/주영진/IdeaProjects/Algorithm-Panda-World/Team2/1-Data Structure/Baekjoon/T2 영진&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging T2-Youngjin",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/주영진/IdeaProjects/Algorithm-Panda-World/T2-영진",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +293,7 @@
       <workItem from="1709884458599" duration="388000" />
       <workItem from="1710437983212" duration="412000" />
       <workItem from="1710479563952" duration="85000" />
-      <workItem from="1710488316986" duration="302000" />
+      <workItem from="1710488316986" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
