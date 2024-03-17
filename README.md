@@ -85,7 +85,7 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/162447481?v=4" style="width:90%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/162447481?v=4" style="width:85%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/144714818?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/78156293?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163657127?v=4" style="width:95%; "></td>
@@ -114,7 +114,7 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/161823841?v=4" style="width:90%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/161823841?v=4" style="width:85%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163697739?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163704771?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163655714?v=4" style="width:95%; "></td>
