@@ -8,16 +8,16 @@
 
 #### 💡 Progress 💡
 
-<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T1%20Curriculum.md"> &nbsp 1️⃣ &nbsp Team 1
+<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T1%20Curriculum.md"> 1️⃣ Team 1
 <br>
-<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T2%20Curriculum.md"> &nbsp 2️⃣ &nbsp Team 2
+<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T2%20Curriculum.md"> 2️⃣ Team 2
 <br>
-<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T3%20Curriculum.md"> &nbsp 3️⃣ &nbsp Team 3
+<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T3%20Curriculum.md"> 3️⃣ Team 3
 <br>
-<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T4%20Curriculum.md"> &nbsp 4️⃣ &nbsp Team 4
+<a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T4%20Curriculum.md"> 4️⃣ Team 4
 <br>
 <br>
-<a href="https://saeyeonn.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31"> &nbsp ✏️ &nbsp 샌의 알고리즘 정리장
+<a href="https://saeyeonn.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31"> ✏️ 샌의 알고리즘 정리장
 
 <br><br>
 
