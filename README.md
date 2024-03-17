@@ -25,7 +25,7 @@
 </tr>
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/106756920?v=4" style="width:90%; height:90%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/106756920?v=4" style="width:90%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/13723849?v=4" style="width:95%; height:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/104622515?v=4" style="width:95%; height:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/151334450?v=4" style="width:95%; height:95%;"></td>
@@ -78,6 +78,64 @@
 <td>Java</td>
 <td>Java</td>
 </tr>
+
+<tr align="center">
+<td colspan="5" height="50px"><b><font size=2>3동 주민 소개</font></b></td>
+</tr>
+
+
+<tr>
+<td><img src="https://avatars.githubusercontent.com/u/162447481?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/144714818?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/163657127?v=4" style="width:95%; height:95%;"></td>
+<td></td>
+</tr>
+
+
+<tr align="center">
+<td><a href="https://github.com/IDontWantToBeADeveloper">지환</td>
+<td><a href="https://github.com/ChanHHaeng">찬행</td>
+<td><a href="https://github.com/gogog01-29-2021">성현</td>
+<td><a href="https://github.com/KSJ1503">승준</td>
+<td>-</td>
+</tr>
+
+<tr align="center">
+<td>Java</td>
+<td>Java</td>
+<td>Python</td>
+<td>Java</td>
+<td>-</td>
+
+<tr align="center">
+<td colspan="5" height="50px"><b><font size=2>4동 주민 소개</font></b></td>
+</tr>
+
+
+<tr>
+<td><img src="https://avatars.githubusercontent.com/u/161823841?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/163697739?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/163704771?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/163655714?v=4" style="width:95%; height:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:85%; height:85%;"></td>
+</tr>
+
+
+<tr align="center">
+<td><a href="https://github.com/Minhyuk12">민혁</td>
+<td><a href="https://github.com/Hyunmin0502">현민</td>
+<td><a href="https://github.com/Mgyeong">민경</td>
+<td><a href="https://github.com/MHJeong730">민희</td>
+<td><a href="https://github.com/seoha376">서하</td>
+</tr>
+
+<tr align="center">
+<td>Java</td>
+<td>Java</td>
+<td>Python</td>
+<td>C</td>
+<td>Python</td>
 
 </table>
 
