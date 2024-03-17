@@ -7,12 +7,13 @@
 <br>
 
 #### 💡 Progress 💡
-- [Team 1](https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/Team1/T1%20Curriculum.md)
-- [Team 2](https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/Team2/T2%20Curriculum.md)
-
-- [Notion - 운영자 샌이 공부하며 정리한 알고리즘 이론](https://married-indigo-f9b.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31)
-
+<td><a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T1%20Curriculum.md">Team 1</td>
 <br>
+<td><a href="https://github.com/saeyeonn/Algorithm-Panda-World/blob/main/T2%20Curriculum.md">Team 2</td>
+<br>
+<td><a href="https://saeyeonn.notion.site/Algorithm-Panda-e6e88ec7b7554599b864accc74a01d31">Notion - 운영자 샌이 공부하며 정리한 알고리즘 이론</td>
+
+<br><br>
 
 
 #### 🐼 Resident 🐼
