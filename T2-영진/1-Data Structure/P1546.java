@@ -19,7 +19,7 @@ public class P1546 {
       }
       sum += A[i];
     }
-    System.out.println(sum * 100.0 / max / N);
+    System.out.println(sum * 100.0 / max / N); // 뒤에 .0찍으면 자동으로 실수형으로 인식
 
     }
   }
