@@ -27,9 +27,9 @@
 <tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/106756920?v=4" style="width:90%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/13723849?v=4" style="width:95%;"></td>
-<td><img src="https://avatars.githubusercontent.com/u/104622515?v=4" style="width:80%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/104622515?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/151334450?v=4" style="width:95%;"></td>
-<td><img src="https://avatars.githubusercontent.com/u/137254772?v=4" style="width:80%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/137254772?v=4" style="width:95%;"></td>
 </tr>
 
 
@@ -55,11 +55,11 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:85%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
-<td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:80%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/156886769?v=4" style="width:95%; "></td>
-<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:80%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:95%; "></td>
 </tr>
 
 
@@ -85,9 +85,9 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/162447481?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/162447481?v=4" style="width:85%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/144714818?v=4" style="width:95%; "></td>
-<td><img src="https://avatars.githubusercontent.com/u/78156293?v=4" style="width:80%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/78156293?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163657127?v=4" style="width:95%; "></td>
 <td></td>
 </tr>
@@ -114,11 +114,11 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/161823841?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/161823841?v=4" style="width:85%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163697739?v=4" style="width:95%; "></td>
-<td><img src="https://avatars.githubusercontent.com/u/163704771?v=4" style="width:80%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/163704771?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/163655714?v=4" style="width:95%; "></td>
-<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:80%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/146072861?v=4" style="width:95%; "></td>
 </tr>
 
 
