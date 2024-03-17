@@ -55,7 +55,7 @@
 
 
 <tr align="center">
-<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:90%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:85%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; "></td>
 <td><img src="https://avatars.githubusercontent.com/u/156886769?v=4" style="width:95%; "></td>
