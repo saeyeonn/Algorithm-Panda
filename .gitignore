@@ -1,1 +1,15 @@
+.gitignore
+./.gitignore
+*/.gitignore
+.idea
+*/.idea
 out
+*/out
+*.xml
+*/*.xml
+*/*/*.xml
+*.iml
+*/*.iml
+*/*/*.iml
+*/.DS_Store
+.DS_Store
