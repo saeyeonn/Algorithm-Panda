@@ -1,6 +1,6 @@
 <div align="center">
 
-- 2팀 발표 순서 : 새연 ➡️ 동환 ➡️ 대훈 ➡️ 수용 ➡️ 정우
+- 2팀 발표 순서 : (1) 정우 ➡️ 대훈 ➡️ 수용 (2) 새연 ➡️ 동환
 
 <br>
 
@@ -49,34 +49,43 @@
 <td rowspan="2">Section 6</td>
 <td>유니온 파인드</td>
 </tr>
+<tr>
 <td><a href ="https://www.acmicpc.net/problem/1717">[실전문제] 집합 표현하기 (BOJ #1717)</a></td>
 </tr>
 
+
 <tr>
-<td rowspan="7">Week 3</td>
-<td rowspan="4">Section 1</td>
+<td rowspan="3">Week 3</td>
+<td rowspan="2">Section 1</td>
 <td>삽입정렬</td>
 </tr>
-<td>퀵정렬</td>
 <tr>
+<td>퀵정렬</td> 
+</tr>
+<tr>
+<td>Section ６</td>
+<td>위상정렬</td>
+</tr>
+
+<tr>
+<td rowspan="4">Week 4</td>
+<td rowspan="2">Section 1</td>
 <td>병합정렬</td>
 </tr>
 <tr>
 <td>기수정렬</td> 
 </tr>
-<td rowspan="3">Section ６</td>
-<td>위상정렬</td>
-</tr>
 <tr>
-<td><a href ="https://www.acmicpc.net/problem/2252">[실전문제] 줄세우기 (BOJ #2252)</a></td> 
-</tr>
-<tr>
+<td rowspan="2">Section ６</td>
 <td>다익스트라</td>
 </tr>
+<tr>
+<td><a href ="https://www.acmicpc.net/problem/1238">[실전문제] 파티 (BOJ #1238)</a></td> 
+</tr>
 
 
 <tr>
-<td rowspan="5">Week 4</td>
+<td rowspan="5">Week 5</td>
 <td rowspan="2">Section 3</td>
 <td>DFS</td>
 </tr>
@@ -87,6 +96,7 @@
 <td rowspan="3">Section 6</td>
 <td>벨만-포드</td>
 </tr>
+<tr>
 <td>플로이드-워셜</td>
 </tr>
 <tr>
@@ -94,7 +104,7 @@
 </tr>
 
 <tr>
-<td rowspan="5">Week 5</td>
+<td rowspan="5">Week 6</td>
 <td rowspan="2">Section 3</td>
 <td>BFS</td>
 </tr>
@@ -105,6 +115,7 @@
 <td rowspan="3">Section 7</td>
 <td>트리 알아보기</td>
 </tr>
+<tr>
 <td>이진트리</td>
 </tr>
 <tr>
@@ -112,7 +123,7 @@
 </tr>
 
 <tr>
-<td rowspan="4">Week 6</td>
+<td rowspan="4">Week 7</td>
 <td rowspan="2">Section 3</td>
 <td>이진탐색</td>
 </tr>
@@ -123,11 +134,12 @@
 <td rowspan="2">Section 7</td>
 <td>LCA 기본</td>
 </tr>
+<tr>
 <td>LCA 응용</td>
 </tr>
 
 <tr>
-<td rowspan="5">Week 7</td>
+<td rowspan="5">Week 8</td>
 <td rowspan="3">Section 4</td>
 <td>그리디 알고리즘</td>
 </tr>
@@ -135,6 +147,7 @@
 <tr>
 <td><a href ="https://www.acmicpc.net/problem/1541">[실전문제] 최솟값을 만드는 괄호 배치 찾기 (BOJ #1541)</a></td>
 </tr>
+<tr>
 <td rowspan="2">Section 8</td>
 <td>조합 핵심이론</td>
 </tr>
@@ -143,7 +156,7 @@
 </tr>
 
 <tr>
-<td rowspan="6">Week 8</td>
+<td rowspan="6">Week 9</td>
 <td rowspan="4">Section 5</td>
 <td>소수 구하기</td>
 </tr>
@@ -160,9 +173,9 @@
 <td rowspan="2">Section 9</td>
 <td>동적계획법 핵심이론</td>
 </tr>
+<tr>
 <td><a href ="https://www.acmicpc.net/problem/11726">[실전문제] 2*N 타일 채우기 (BOJ #11726)</a></td>
 </tr>
 
-</tr>
 </table>
 </div>
