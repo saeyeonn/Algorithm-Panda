@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a3e9f9-0ab3-4ece-99cd-2bf0546c407f" name="Changes" comment="3week">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a1a3e9f9-0ab3-4ece-99cd-2bf0546c407f" name="Changes" comment="change">
+      <change beforePath="$PROJECT_DIR$/T2-승우/T2-승우.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Baikseungwoo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="db17416e-c819-4205-b96d-89f4e9efa01d" />
+        <option name="url" value="https://github.com/saeyeonn/Algorithm-Panda-World.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "T2-SeungWoo",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Daehun/IdeaProjects/Computer Language (ITM-SeoulTech)/course.json",
+    "last_opened_file_path": "C:/Users/com/Desktop/java/IdeaProjects/Algorithm-Panda-World/T2-승우/2-Sorting",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
@@ -97,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3week" />
-    <option name="LAST_COMMIT_MESSAGE" value="3week" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
 </project>
