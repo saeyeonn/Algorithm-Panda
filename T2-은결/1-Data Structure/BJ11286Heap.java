@@ -51,14 +51,13 @@ import java.util.PriorityQueue;
 
 public class BJ11286Heap {
     public static void main(String[] args) {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-       // int N = Integer.parseInt(br.readLine());
-        PriorityQueue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
-
-        for (int i = 0; i < N; i ++) {
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        int N = Integer.parseInt(br.readLine());
+//        PriorityQueue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
+//
+//        for (int i = 0; i < N; i ++) {
        //     int x = Integer.parseInt(br.readLine());
 
-        //ha johnna morugetta
 
     }
 }

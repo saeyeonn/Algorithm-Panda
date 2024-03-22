@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3a95bd8-c258-4514-ad9e-80d3bc5cc9e9" name="Changes" comment="Merge branch 'main' into T2-Silver&#10;&#10;# Conflicts:&#10;#&#9;.idea/.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <change afterPath="$PROJECT_DIR$/T2-은결/2-Sorting/BJ1427Descending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2-은결/2-Sorting/BJ2750BulleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2-은결/1-Data Structure/BJ11286Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/1-Data Structure/BJ11286Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2-은결/1-Data Structure/BJ1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/T2-은결/1-Data Structure/BJ1546.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="T2-Silver" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;s21versurfer&quot;,
+      &quot;author&quot;: &quot;s21versurfer&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s21versurfer&quot;,
+    &quot;author&quot;: &quot;s21versurfer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="af430c3e-1925-4712-a35e-10e46aec5316" />
+        <option name="url" value="https://github.com/saeyeonn/Algorithm-Panda-World.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="19" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dOjrd9b2rgMFzpCEK5sJj1lHgu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BJ1427Descending.executor": "Run",
+    "Application.BJ1874stackarray.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "T2-Silver",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/김은결 폴더/과기대/Algorithm-Panda-World",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\김은결 폴더\과기대\Algorithm-Panda-World\T2-은결\2-Sorting" />
+      <recent name="C:\김은결 폴더\과기대\Algorithm-Panda-World\T2-은결\1-Data Structure" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BJ1427Descending" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BJ1427Descending" />
+      <module name="T2-은결" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="T1-동환" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="T1-동환" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3a95bd8-c258-4514-ad9e-80d3bc5cc9e9" name="Changes" comment="" />
+      <created>1709886219214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709886219214</updated>
+      <workItem from="1709886223289" duration="1526000" />
+      <workItem from="1709998605790" duration="1948000" />
+      <workItem from="1710000623553" duration="379000" />
+      <workItem from="1710001034218" duration="290000" />
+      <workItem from="1710001347462" duration="639000" />
+      <workItem from="1710002005693" duration="3899000" />
+      <workItem from="1710465158556" duration="5263000" />
+      <workItem from="1710485421827" duration="2435000" />
+      <workItem from="1710600075527" duration="39000" />
+      <workItem from="1711071034962" duration="252000" />
+      <workItem from="1711071304444" duration="1017000" />
+      <workItem from="1711072572323" duration="948000" />
+      <workItem from="1711073571680" duration="883000" />
+      <workItem from="1711074515381" duration="74000" />
+      <workItem from="1711074696641" duration="1892000" />
+      <workItem from="1711076635496" duration="600000" />
+      <workItem from="1711077253520" duration="1916000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' into T2-Silver&#10;&#10;# Conflicts:&#10;#&#9;.idea/.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <option name="closed" value="true" />
+      <created>1710000908838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710000908838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' into T2-Silver&#10;&#10;# Conflicts:&#10;#&#9;.idea/.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into T2-Silver&#10;&#10;# Conflicts:&#10;#&#9;.idea/.gitignore&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
