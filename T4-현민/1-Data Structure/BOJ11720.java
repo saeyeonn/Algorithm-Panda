@@ -9,7 +9,7 @@ public class BOJ11720 {
         for(int i=0; i<cNum.length; i++) {
             sum += cNum[i] - '0';
         }
-        System.out.println(sum);git
+        System.out.println(sum);
     }
 }
 
