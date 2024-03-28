@@ -6,8 +6,8 @@ import java.util.StringTokenizer;
 public class Q11724 {
 
     static int N,M; //정점과 간선의 개수 저장하는 변수
-    static int arr[][];//행렬을 나타내는 배열
-    static boolean visited[];//방문 여부 저장하는 배열
+    static int[][] arr;//행렬을 나타내는 배열
+    static boolean[] visited;//방문 여부 저장하는 배열
     static int count=0;//연결요소 개수 세는 변수
 
     public static void main(String[] args) throws IOException {
@@ -28,7 +28,7 @@ public class Q11724 {
         }
 
         for(int i=1;i<N+1;i++){//모든 정점에 대해 반복
-            if(visited[i]==false){//방문하지 않은 정점일 때
+            if(!visited[i]){//방문하지 않은 정점일 때
                 DFS(i);//DFS 호출
                 count++;//연결 요소 개수 증가
             }
@@ -42,7 +42,7 @@ public class Q11724 {
         visited[start]=true;//시작 정점 방문 표시
 
         for(int i=1;i<N+1;i++){//모든 정점에 대해 반복
-            if(arr[start][i]==1 && visited[i]==false){//현재 정점과 연결되어 있고 아직 방문하지 않은 정점이면
+            if(arr[start][i]==1 && !visited[i]){//현재 정점과 연결되어 있고 아직 방문하지 않은 정점이면
                 DFS(i);//해당 정점으로 DFS 호출
             }
         }
