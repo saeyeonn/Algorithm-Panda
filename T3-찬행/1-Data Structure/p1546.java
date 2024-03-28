@@ -14,6 +14,7 @@ public class p1546 {
             sum+=A[i];
             if(A[i]>max){
                 max=A[i];
+
             }
         }
         System.out.println(sum*100.0/max/N);
