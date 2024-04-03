@@ -35,3 +35,5 @@ int main() {
             }
         return 0;
     }
+
+#If not use class,
