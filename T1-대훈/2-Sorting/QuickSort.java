@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class QuickSort {
     // 퀵 정렬 메서드
     public static void quickSort(int[] arr, int start, int end) {
-        if (start < end) { // 시작 인덱스가 종료 인덱스보다 작을 때만 실행
+        if (start < end) { // 시작 인덱스가 종료 인덱스보다 작을 때만 실행 -> start와 end가 같아지면 작동x
             int pivot = partition(arr, start, end); // 배열을 분할하고, 피벗 인덱스를 반환
             quickSort(arr, start, pivot - 1); // 피벗을 기준으로 왼쪽 부분 배열을 정렬
             quickSort(arr, pivot + 1, end); // 피벗을 기준으로 오른쪽 부분 배열을 정렬
@@ -16,7 +16,7 @@ public class QuickSort {
     // 배열을 분할하고, 피벗을 정하는 메서드
     public static int partition(int[] arr, int start, int end) {
         int pivot = arr[end]; // 피벗은 배열의 마지막 요소로 정함
-        int i = start - 1; // i는 피벗보다 작은 요소들의 마지막 인덱스를 가리킴
+        int i = start - 1; // i는 피벗보다 작은 요소들의 마지막 인덱스를 가리킴 -> 얘보다는 피벗이 확실히 크다!
 
         for (int j = start; j < end; j++) { // 배열을 순회
             if (arr[j] <= pivot) { // 현재 요소가 피벗보다 작거나 같으면
@@ -24,10 +24,10 @@ public class QuickSort {
                 int temp = arr[i]; // i번째 요소와
                 arr[i] = arr[j]; // j번째 요소를
                 arr[j] = temp; // 교환
-            }
+            } // 현재 요소가 피벗보다 크면? i의 변동없이 다음 인덱스로 -> 작은 값의 요소를 발견하면 바꾸는 인덱스
         }
 
-        // 피벗을 올바른 위치로 이동
+        // 피벗을 올바른 위치로 이동 -> 피벗보다 가장 작은 요소 바로 다음 인덱스로 이동
         int temp = arr[i + 1];
         arr[i + 1] = arr[end];
         arr[end] = temp;
