@@ -7,7 +7,6 @@ public class p2164 {
         Scanner scanner = new Scanner(System.in);
         int n=scanner.nextInt();
 
-        int index=0;
 
         List<Integer> queue = new LinkedList<>();
         for(int i=0;i<n;i++){

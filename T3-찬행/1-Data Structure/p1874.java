@@ -43,6 +43,9 @@ public class p1874 {
                 index--;
             }
         }
+
+
+
         if(flag){
             System.out.println("NO");
         }
