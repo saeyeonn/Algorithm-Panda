@@ -10,10 +10,9 @@ public class Week1_BOJ11720 {
 
         int sum = 0;
         for (int i = 0; i < n; i++) {
-                    sum += Character.getNumericValue(numbers.charAt(i));
+            sum += Character.getNumericValue(numbers.charAt(i));
         }
-                System.out.println(sum);
-
+            System.out.println(sum);
     }
 
 }
