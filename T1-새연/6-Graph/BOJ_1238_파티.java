@@ -68,8 +68,8 @@ public class BOJ_1238_파티 {
 
         DISTANCE = new int[N + 1];
         REVERSEDDISTANCE = new int[N + 1];
-        Arrays.fill(DISTANCE, 100000000);
-        Arrays.fill(REVERSEDDISTANCE, 100000000);
+        Arrays.fill(DISTANCE, Integer.MAX_VALUE);
+        Arrays.fill(REVERSEDDISTANCE, Integer.MAX_VALUE);
 
         for (int i = 0 ; i < M; i++) {
             st = new StringTokenizer(br.readLine());
