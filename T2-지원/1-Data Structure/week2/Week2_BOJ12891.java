@@ -1,3 +1,5 @@
+package week2;
+
 import java.util.Scanner;
 
 public class Week2_BOJ12891 {
