@@ -1,44 +1,58 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 public class P1707_이분_그래프 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int K = sc.nextInt();
+    static ArrayList<Integer>[] A;
+    static int[] check;
+    static boolean[] visited;
+    static boolean IsEven;
+    public static void main(String[] args) throws Exception{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int testCase = Integer.parseInt(br.readLine());
+        for(int t =0; t<testCase; t++){
+            String[] s = br.readLine().split(" ");
+            int V = Integer.parseInt(s[0]);
+            int E = Integer.parseInt(s[1]);
 
-        for (int i=0; i<K; i++) {
-
-            int V = sc.nextInt();
-            int E = sc.nextInt();
-            boolean result = true;
-
-            List<Integer> A = new ArrayList<>();
-            List<Integer> B = new ArrayList<>();
-
-            for (int k=0; k<E; k++) {
-
-                int a = sc.nextInt();
-                int b = sc.nextInt();
-                A.add(a);
-                B.add(b);
-                }
-
-            for(int l=1; l<=V; l++) {
-                boolean AC = A.contains(l);
-                boolean BC = B.contains(l);
-                if( AC & BC) {
-                    System.out.println("NO");
-                    result = false;
+            A = new ArrayList[V+1];
+            visited = new boolean[V+1];
+            check = new int[V+1];
+            IsEven = true;
+            for(int i= 1; i<=V; i++){
+                A[i]= new ArrayList<Integer>();
+            }
+            for(int i =0; i<E; i++) {
+                s = br.readLine().split(" ");
+                int start = Integer.parseInt(s[0]);
+                int end = Integer.parseInt(s[1]);
+                A[start].add(end);
+                A[end].add(start);
+            }
+            for(int i=1; i<V; i++){
+                if(IsEven){
+                    DFS(1);
+                }else{
                     break;
                 }
-
-
-            }
-            if(result){
-            System.out.println("YES");
             }
 
+            if(IsEven) System.out.println("Yes");
+            else System.out.println("No");
+
+
+        }
+
+    }
+    private static void DFS(int start){
+        visited[start]=true;
+        for(int i : A[start]){
+            if(!visited[i]){
+                check[i] = (check[start]+1)%2;
+                DFS(i);
+            }else if(check[start]==check[i]){
+                IsEven = false;
+            }
 
         }
     }
