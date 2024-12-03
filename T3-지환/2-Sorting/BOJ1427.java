@@ -27,7 +27,7 @@ public class BOJ1427 {
             int max_index = i;
             for(int j = i+1; j<count; j++){
                 int b = index[j];
-                if(b>=max){
+                if(b>max){
                     max = b;
                     max_index = j;
                     swap = true;
